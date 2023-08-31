@@ -11,7 +11,7 @@
 
   ## Tecnologias utilizadas em meu dia a dia
 ### Projetos recentes 
-### <a href="https://sonmook.github.io/pageHomenagem/">Pagína de Homenagem</a>
+### <a href="https://sonmook.github.io/pageHomenagem/" target="_blank">Pagína de Homenagem</a>
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
