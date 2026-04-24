@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100ACB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=100ACB&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Me+Chamo+Emerson+Franco;Profissional+de+TI+na+Track%26Field;Estudante+de+Gest%C3%A3o+da+Tecnologia+da+Informa%C3%A7%C3%A3o;Desenvolvedor+Web,+Python+e+FiveM;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=100ACB&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Me+Chamo+Emerson+Franco;Profissional+de+TI+na+Track%26Field;Formado+em+Gest%C3%A3o+da+Tecnologia+da+Informa%C3%A7%C3%A3o;Desenvolvedor+Web,+Python+e+FiveM;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sonmook&show_icons=true&count_private=true&hide_border=true&title_color=100ACB&icon_color=2E29C7&text_color=c9d1d9&bg_color=0d1117" alt="Emerson Franco github stats" /> 
@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um profissional de TI apaixonado por criar soluções que facilitam o dia a dia. Atualmente trabalho na área de tecnologia da **Track&Field** e estou cursando **Gestão da Tecnologia da Informação**. 
+Sou um profissional de TI apaixonado por criar soluções que facilitam o dia a dia. Atualmente trabalho na área de tecnologia da **Track&Field** e sou formado em **Gestão da Tecnologia da Informação**. 
 
 Meu foco de desenvolvimento transita entre a criação de interfaces web intuitivas, automações robustas com Python (bots e web scraping) e desenvolvimento de scripts em Lua para a comunidade de FiveM.
 
