@@ -62,5 +62,5 @@ Aqui estão alguns dos meus trabalhos recentes:
   <br>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100ACB&height=120&section=footer"/>
   
-  ![Snake animation](https://github.com/sonmook/sonmook/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/sonmook/sonmook/output/github-contribution-grid-snake.svg)
 </div>
