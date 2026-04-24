@@ -21,8 +21,7 @@ Meu foco de desenvolvimento transita entre a criação de interfaces web intuiti
 
 Aqui estão alguns dos meus trabalhos recentes:
 
-* 🏢 **[Sistema de Gestão de Corretores (CRUD)](https://github.com/sonmook/NOME_DO_REPO)** - Sistema completo em PHP e MySQL.
-* 🛍️ **[TechsProm](https://github.com/sonmook/NOME_DO_REPO)** - Portal de um grupo de ofertas gerais publicado via Discloud.
+* 🏢 **[Sistema de Gestão de Corretores (CRUD)](https://github.com/sonmook/projetoCorretores)** - Sistema completo em PHP e MySQL.
 * 🧮 **[Calculadora de Média FMU](https://sonmook.github.io/CalculadoraDeMediaFMU/)** - Ferramenta web para cálculo de notas N1 e N2.
 * 🏛️ **[Tribute Page](https://sonmook.github.io/pageHomenagem/)** - Projeto front-end focado em semântica e CSS moderno.
 * 🤖 **Automações Python** - Desenvolvimento de bots espiões para Telegram e utilitários desktop (Mouse Jiggler).
