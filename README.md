@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=100ACB&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Me+Chamo+Emerson+Franco;Profissional+de+TI+na+Track%26Field;Formado+em+Gest%C3%A3o+da+Tecnologia+da+Informa%C3%A7%C3%A3o;Desenvolvedor+Web,+Python+e+FiveM;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sonmook&show_icons=true&count_private=true&hide_border=true&title_color=100ACB&icon_color=2E29C7&text_color=c9d1d9&bg_color=0d1117" alt="Emerson Franco github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sonmook&show_icons=true&hide_border=true&title_color=100ACB&icon_color=2E29C7&text_color=c9d1d9&bg_color=0d1117" alt="Emerson Franco github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonmook&layout=compact&hide_border=true&title_color=100ACB&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
@@ -21,12 +21,11 @@ Meu foco de desenvolvimento transita entre a criação de interfaces web intuiti
 
 Aqui estão alguns dos meus trabalhos recentes:
 
+* 🎧 **[Portal de Chamados (Helpdesk)](https://github.com/sonmook/portal-chamados)** - Sistema completo de suporte de TI em Django com controle de SLA, Dashboard corporativo e Google SSO. *(Novo!)*
 * 🏢 **[Sistema de Gestão de Corretores (CRUD)](https://github.com/sonmook/projetoCorretores)** - Sistema completo em PHP e MySQL.
 * 🧮 **[Calculadora de Média FMU](https://sonmook.github.io/CalculadoraDeMediaFMU/)** - Ferramenta web para cálculo de notas N1 e N2.
 * 🏛️ **[Tribute Page](https://sonmook.github.io/pageHomenagem/)** - Projeto front-end focado em semântica e CSS moderno.
-* 🤖 **Automações Python** - Desenvolvimento de bots espiões para Telegram e utilitários desktop (Mouse Jiggler).
-
-*(Nota: Lembre-se de atualizar os links com "NOME_DO_REPO" pelos links reais dos seus repositórios assim que criá-los!)*
+* 🤖 **Automações Python** - Desenvolvimento de bots espiões para Telegram e utilitários desktop.
 
 ---
 
@@ -35,7 +34,7 @@ Aqui estão alguns dos meus trabalhos recentes:
 **Front-end & Web:**<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)&nbsp;
 
 **Back-end, Automação & Banco de Dados:**<br>
@@ -45,7 +44,7 @@ Aqui estão alguns dos meus trabalhos recentes:
 
 **Estudando no momento:**<br>
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 ![SqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927&labelColor=0D1117)&nbsp;
 
 ---
