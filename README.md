@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=100ACB&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Me+Chamo+Emerson+Franco;Profissional+de+TI+na+Track%26Field;Formado+em+Gest%C3%A3o+da+Tecnologia+da+Informa%C3%A7%C3%A3o;Desenvolvedor+Web,+Python+e+FiveM;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sonmook&show_icons=true&hide_border=true&title_color=100ACB&icon_color=2E29C7&text_color=c9d1d9&bg_color=0d1117&v=1" alt="Emerson Franco github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonmook&layout=compact&hide_border=true&title_color=100ACB&text_color=c9d1d9&bg_color=0d1117&v=1" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sonmook&show_icons=true&hide_border=true&title_color=100ACC&icon_color=2E29C7&text_color=c9d1d9&bg_color=0d1118" alt="Emerson Franco github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonmook&layout=compact&hide_border=true&title_color=100ACC&text_color=c9d1d9&bg_color=0d1118" />
 </div>
 
 <br>
