@@ -82,6 +82,11 @@ Aplicação para cadastrar, consultar, editar e excluir registros de corretores,
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css&logoColor=663399)
 
+**Versionamento e colaboração**
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+
 **Estudos atuais:** aprofundamento em React e Node.js, além de SQL Server.
 
 ## Vamos conversar?
