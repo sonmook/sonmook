@@ -56,7 +56,7 @@ Aplicação para cadastrar, consultar, editar e excluir registros de corretores,
 <details>
   <summary><strong>Outros projetos e experiências</strong></summary>
 
-- **[Calculadora de Média FMU](https://sonmook.github.io/CalculadoraDeMediaFMU/):** ferramenta web para cálculo de notas N1 e N2.
+- **[Calculadora de Média FMU](https://sonmook.github.io/CalculadoraDeMediaFMU/):** ferramenta web para cálculo de notas N1 e N2. [Ver código-fonte](https://github.com/sonmook/CalculadoraDeMediaFMU).
 - **[Tribute Page](https://sonmook.github.io/pageHomenagem/):** projeto de interface com HTML e CSS.
 - **Automações em Python:** bots, coleta de dados e utilitários para tarefas repetitivas.
 - **Scripts em Lua para FiveM:** experiência com lógica de programação e desenvolvimento de funcionalidades para servidores.
